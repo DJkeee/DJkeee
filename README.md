@@ -1,16 +1,23 @@
 # Привет! 👋 Меня зовут [Дмитрий]
 
 ## 🧑‍💻 Обо мне
-[Учусь на 3 курсе НИЯУ МИФИ на программной инженерии. Занимаюсь машинным обучением, аналитикой, разработкой(backend) и анализом данных.]
+[Учусь на 3 курсе НИЯУ МИФИ на программной инженерии. Занимаюсь машинным обучением, разработкой(backend) и анализом данных.]
 
 ## 🛠️ Технические навыки
 
-### Backend & Базы данных
+### Разработка
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Make](https://img.shields.io/badge/Make-003366?style=for-the-badge&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Базы данных и DevOps
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Data Science & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
