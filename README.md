@@ -42,9 +42,11 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJkeee&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
 
+[![Streak Stats](https://streak-stats.demolab.com/?user=DJkeee&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJkeee&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
 
-[![Streak Stats](https://streak-stats.demolab.com/?user=DJkeee&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
+
 
 ## 🚀 Мои проекты
 [![Посмотреть проекты](https://img.shields.io/badge/🔍_Посмотреть_все_проекты-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJkeee?tab=repositories)
