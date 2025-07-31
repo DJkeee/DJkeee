@@ -41,6 +41,7 @@
 ## 📊 Моя статистика
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJkeee&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJkeee&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
 
 [![Streak Stats](https://streak-stats.demolab.com/?user=DJkeee&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
