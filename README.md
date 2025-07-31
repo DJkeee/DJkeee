@@ -1,7 +1,7 @@
-# Привет! 👋 Меня зовут [Дмитрий]
+# Привет! 👋 Меня зовут Дмитрий
 
 ## 🧑‍💻 Обо мне
-[Учусь на 3 курсе программной инженерии НИЯУ МИФИ. Занимаюсь машинным обучением, разработкой(backend) и анализом данных.]
+Учусь на 3 курсе программной инженерии НИЯУ МИФИ. Занимаюсь машинным обучением, разработкой (backend) и анализом данных.
 
 ## 🛠️ Технические навыки
 
@@ -33,9 +33,12 @@
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## Моя статистика
+## 📊 Моя статистика
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJkeee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJkeee&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJkeee&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
 
-## 📈 Мои проекты
-[https://github.com/DJkeee?tab=repositories]
+[![Streak Stats](https://streak-stats.demolab.com/?user=DJkeee&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
+
+## 🚀 Мои проекты
+[![Посмотреть проекты](https://img.shields.io/badge/🔍_Посмотреть_все_проекты-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJkeee?tab=repositories)
