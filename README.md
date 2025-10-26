@@ -13,6 +13,7 @@
 ### Разработка
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-003366?style=for-the-badge&logo=cmake&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -25,6 +26,8 @@
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Data Science & AI
@@ -38,13 +41,7 @@
 
 ## 📊 Моя статистика
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJkeee&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
-
-[![Streak Stats](https://streak-stats.demolab.com/?user=DJkeee&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJkeee&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee)
-
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJkeee&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/DJkeee) 
 
 ## 🚀 Мои проекты
 [![Посмотреть проекты](https://img.shields.io/badge/🔍_Посмотреть_все_проекты-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJkeee?tab=repositories)
