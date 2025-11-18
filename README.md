@@ -6,7 +6,7 @@
 *Специализация: разработка (backend), машинное обучение и анализ данных*
 
 ## 🧑‍💻 Обо мне
-Учусь на 3 курсе программной инженерии НИЯУ МИФИ. Занимаюсь машинным обучением, разработкой (backend) и анализом данных.
+Учусь на 3 курсе программной инженерии НИЯУ МИФИ. Занимаюсь машинным обучением, разработкой (backend, mobile) и анализом данных.
 
 ## 🛠️ Технические навыки
 
@@ -19,6 +19,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+### Android разработка
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android View](https://img.shields.io/badge/Android_View-32DE84?style=for-the-badge&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4479A1?style=for-the-badge&logo=android&logoColor=white)
+![OkHttp](https://img.shields.io/badge/OkHttp-6B46C1?style=for-the-badge&logo=square&logoColor=white)
 
 ### Базы данных и DevOps
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
